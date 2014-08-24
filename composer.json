@@ -1,6 +1,9 @@
 {
     "name": "dstollie/yui-compressor-php-wrapper",
     "description": "A simple PHP wrapper for yahoo's Yui Compressor",
+    "homepage": "https://github.com/dstollie/yui-compressor-php-wrapper/",
+    "keywords": ["yui compressor"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Dennis Stolmeijer",
